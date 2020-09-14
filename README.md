@@ -1,5 +1,2 @@
 # hello-world
-my first on github xxxxx
-<% %>
-${}
-<jsp:useBean 
+my first on github about awk usually usage
